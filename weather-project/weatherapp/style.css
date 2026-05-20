@@ -10,7 +10,7 @@ body.no-background {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url("/assets/wether.jpg"); 
+    background-image: url("/assets/weather.jpg"); 
     background-size: cover;
     background-position: center;
     height: 100vh;
